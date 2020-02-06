@@ -1,5 +1,7 @@
 # K-LAN
 
+A LAN chat software.
+
 # How to use
 
 1.start server.exe
