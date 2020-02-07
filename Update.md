@@ -9,3 +9,5 @@ Message automatically scrolls to the bottom;
 Add hot key Shift+Enter to send;
 
 Implement Chinese input;
+
+Check IP address and port;
