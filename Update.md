@@ -7,3 +7,5 @@ Some basic functions; such as clinet-server connection etc.;
 Message automatically scrolls to the bottom;
 
 Add hot key Shift+Enter to send;
+
+Implement Chinese input;
