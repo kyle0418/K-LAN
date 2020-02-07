@@ -17,3 +17,7 @@ A LAN chat software.
 6.connect to the server
 
 7.send text
+
+# Tips
+
+In different network segments, the low network segment cannot access the high network segment, so it is recommended to set the server on the low network segment. (e.g., server:192.168.2.104; client:192.168.1.9)
