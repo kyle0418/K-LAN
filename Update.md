@@ -4,4 +4,6 @@ Some basic functions; such as clinet-server connection etc.;
 
 **2/7/2020**
 
-Message automatically scrolls to the bottom
+Message automatically scrolls to the bottom;
+
+Add hot key Shift+Enter to send;
